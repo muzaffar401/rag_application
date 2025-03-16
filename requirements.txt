@@ -1,11 +1,12 @@
 langchain
-langchain_community
+langchain-community
 langchain-google-genai
-langchain_experimental
-langchain_chroma
+langchain-experimental
 langchainhub
-chromadb
+chromadb>=0.4.22,<0.6.0
 sentence-transformers
+torch
+transformers
 pypdf
 rapidocr-onnxruntime
 python-dotenv
